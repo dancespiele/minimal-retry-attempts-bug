@@ -2,6 +2,7 @@
 
 ## How to run
 
+`yarn`
 `yarn start:dev`
 
 ## How to request
