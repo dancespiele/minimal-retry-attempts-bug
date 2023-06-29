@@ -2,8 +2,8 @@
 
 ## How to run
 
-`yarn`
-`yarn start:dev`
+1. `yarn`
+2. `yarn start:dev`
 
 ## How to request
 
